@@ -30,7 +30,7 @@ class _SecondScreenState extends State<SecondScreen> {
                 Navigator.pop(context);
               },
               child: Text(
-                "Second Screen",
+                "First Screen",
                 style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold

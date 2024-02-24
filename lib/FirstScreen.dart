@@ -32,7 +32,7 @@ class _FirstScreenState extends State<FirstScreen> {
                   Navigator.pushNamed(context, '/secondScreen');
                   },
                 child: Text(
-                  "First Screen",
+                  "Second Screen",
                   style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold
